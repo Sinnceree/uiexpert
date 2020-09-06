@@ -3,6 +3,7 @@ import "./assets/css/main.scss";
 import Navigation from "./components/Navigation";
 import Header from "./components/Header";
 import ServiceList from "./components/ServiceList";
+import AboutUs from "./components/AboutUs";
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
       <Navigation />
       <Header />
       <ServiceList />
-
+      <AboutUs />
     </div>
   );
 }
