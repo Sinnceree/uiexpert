@@ -4,6 +4,7 @@ import Navigation from "./components/Navigation";
 import Header from "./components/Header";
 import ServiceList from "./components/ServiceList";
 import AboutUs from "./components/AboutUs";
+import OurSuccess from "./components/OurSuccess";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Header />
       <ServiceList />
       <AboutUs />
+      <OurSuccess />
     </div>
   );
 }
