@@ -5,4 +5,4 @@ His origninal Dribble Post can be found [Here](https://dribbble.com/shots/650465
 Live version located [Here](https://voxze.github.io/uiexpert/)
 
 ## Preview 
-![Preview of site](https://i.imgur.com/RcrJeLb.png)
+![Preview of site](https://i.imgur.com/OiMiM07.png)
