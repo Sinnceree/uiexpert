@@ -36,7 +36,6 @@ const ServiceList = () => {
             <button className="service-btn">Read More</button>
           </div>
         </div>
-
         <div className="row" style={{ marginTop: "1rem" }}>
           <div className="service-item" style={{ background: "linear-gradient(180deg, #4386D2 0%, #0962C5 100%)" }}>
             <AppIcon className="service-icon" />

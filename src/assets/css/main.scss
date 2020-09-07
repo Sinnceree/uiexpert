@@ -179,10 +179,13 @@
     display: flex;
     flex-wrap: wrap;
     margin-top: 3rem;
+    flex-direction: column;
     justify-content: space-evenly;
 
     .row {
+      flex: 1;
       display: flex;
+      justify-content: center;
     }
 
     .service-item {
@@ -508,5 +511,16 @@
         }
       }
     }
+  }
+}
+
+.phases-sections {
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  background: #FBFCFD;
+
+  .phase-block {
+    height: 400px;
   }
 }
