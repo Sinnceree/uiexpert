@@ -7,6 +7,7 @@ import AboutUs from "./components/AboutUs";
 import OurSuccess from "./components/OurSuccess";
 import Testimonials from "./components/Testimonials";
 import Phases from "./components/Phases";
+import Workflow from "./components/Workflow";
 
 const App = () => {
   return (
@@ -18,9 +19,11 @@ const App = () => {
       <OurSuccess />
       <Testimonials />
       <Phases />
+      <Workflow />
 
     </div>
   );
 }
+
 
 export default App;
